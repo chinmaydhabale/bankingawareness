@@ -1,0 +1,11 @@
+﻿# Ignore raw sources, images, extractions, and scratch
+source_materials/
+data_and_extractions/
+scratch/
+
+# System & Temp files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+*.log
