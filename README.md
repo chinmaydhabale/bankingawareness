@@ -23,6 +23,11 @@ bankingawareness/
 │   ├── Vol_4_History_Federalism_and_Supervision.md    # Modules 21 to 26 (Banking History, Federalism, Frauds, DICGC)
 │   └── Vol_5_Central_Banking_Markets_Committees.md    # Modules 27 to 33 (RBI, MPC, Money/Capital Market, Foreign Trade, Committees)
 │
+├── Ace_Banking_Hinglish_Notes/                        # 🎯 Track 3: Ace Banking (Adda247) Complete Chapter-Wise Notes (40 Modular Files)
+│   ├── README.md                                      # 40-Chapter Master Navigation & Syllabus Roadmap
+│   ├── 01_What_is_Banking_and_History.md to           # Topic-wise modular files (Ch 01 to Ch 39)
+│   └── 40_Recent_Exam_Questions_and_Practice_Set.md   # High-yield exam questions bank
+│
 ├── source_materials/                                  # 🗄️ Raw Source Documents & Course Materials
 │   ├── transcripts/
 │   │   └── piyushsirbanking awareness.txt             # 5-Hour YouTube Marathon Raw Lecture Transcript
@@ -108,6 +113,55 @@ Detailed theoretical foundation synthesized from the 193-page master banking awa
   - Module 31: Foreign Exchange & External Sector (FEMA, Nostro/Vostro/Loro, LRS)
   - Module 32: International Financial Institutions (IMF, World Bank, ADB, NDB, AIIB, BIS)
   - Module 33: Landmark Banking & Financial Sector Committees
+
+---
+
+## 🎯 Track 3: Ace Banking (Adda247) Complete Chapter-Wise Notes (40 Modular Files)
+👉 **Direct Folder & Navigation:** [`Ace_Banking_Hinglish_Notes/`](Ace_Banking_Hinglish_Notes/README.md)
+
+*Ace Banking and Static Awareness* ke pure 209-page syllabus ke **40 topic-wise modular chunk files**. Isme ek bhi point, section, act, committee ya exercise miss nahi ki gayi hai. Har concept ko aasan Hinglish bhasha aur real-life udaharano ke sath samjhaya gaya hai.
+
+### Quick Overview of 40 Topics:
+1. [Ch 01: What is Banking & Its History](Ace_Banking_Hinglish_Notes/01_What_is_Banking_and_History.md) — 1720 Bank of Bombay, Presidency Banks, SBI 1955.
+2. [Ch 02: Types of Banking in India](Ace_Banking_Hinglish_Notes/02_Types_of_Banking_in_India.md) — Para (Sec 19(1)), Narrow, Offshore, Green, Universal.
+3. [Ch 03: RBI and Its Functions](Ace_Banking_Hinglish_Notes/03_RBI_and_Its_Functions.md) — Hilton Young, Sec 22 Note issue, Lender of last resort, 5 subsidiaries.
+4. [Ch 04: Monetary Policy of RBI](Ace_Banking_Hinglish_Notes/04_Monetary_Policy_of_RBI.md) — FIT 4% +/- 2%, Repo, Reverse Repo, SDF, MSF, Bank Rate, CRR, SLR.
+5. [Ch 05: Stages of Development of Indian Banking](Ace_Banking_Hinglish_Notes/05_Stages_of_Development_of_Indian_Banking.md) — Pre-1947, 1969/1980 Nationalisation, Narasimham I & II.
+6. [Ch 06: Nationalization of Banks](Ace_Banking_Hinglish_Notes/06_Nationalization_of_Banks.md) — 1969 14 Banks (>₹50 Cr), 1980 6 Banks (>₹200 Cr), PNB-NBI merger.
+7. [Ch 07: Financial Markets in India](Ace_Banking_Hinglish_Notes/07_Financial_Markets_in_India.md) — Money vs Capital Market, Call/Notice/Term, T-Bills, CP, CD, BSE, NSE.
+8. [Ch 08: Financial Organizations in India](Ace_Banking_Hinglish_Notes/08_Financial_Organizations_in_India.md) — AIFIs: NABARD, SIDBI, EXIM, NHB, ECGC.
+9. [Ch 09: NBFCs in India](Ace_Banking_Hinglish_Notes/09_NBFCs_in_India.md) — 50-50 Principle, Bank vs NBFC, SBR 4 layers.
+10. [Ch 10: 'Indradhanush' Strategy to Revamp PSBs](Ace_Banking_Hinglish_Notes/10_Indradhanush_Strategy_to_Revamp_PSBs.md) — 7 Pillars A to G, BBB, Gyan Sangam.
+11. [Ch 11: All About the Basel Norms](Ace_Banking_Hinglish_Notes/11_Basel_Norms_I_II_III.md) — Basel I, II (3 Pillars), III (CCB 2.5%, LCR, NSFR), RBI 9% CAR.
+12. [Ch 12: Negotiable Instruments Act](Ace_Banking_Hinglish_Notes/12_Negotiable_Instruments_Act.md) — NI Act 1881, Promissory Note (Sec 4), Bill of Exchange (Sec 5), Cheque (Sec 6), Sec 138.
+13. [Ch 13: Types of Money](Ace_Banking_Hinglish_Notes/13_Types_of_Money.md) — Fiat vs Fiduciary, M0, M1 (Narrow), M2, M3 (Broad), M4.
+14. [Ch 14: Types of Banks in India](Ace_Banking_Hinglish_Notes/14_Types_of_Banks_in_India.md) — Scheduled (2nd Schedule, min ₹5L), RRBs (50:35:15), Cooperatives.
+15. [Ch 15: MUDRA Bank & PMMY](Ace_Banking_Hinglish_Notes/15_MUDRA_Bank.md) — Shishu (₹50k), Kishor (₹50k-₹5L), Tarun (₹5L-₹10L), Collateral-free.
+16. [Ch 16: Small Finance Banks (SFBs)](Ace_Banking_Hinglish_Notes/16_Small_Finance_Banks_SFB.md) — Usha Thorat, 75% PSL, 25% rural branches, Capital SFB, AU SFB.
+17. [Ch 17: Payment Banks in India](Ace_Banking_Hinglish_Notes/17_Payments_Banks_in_India.md) — Nachiket Mor, ₹2L deposit cap, NO loans, NO credit cards, Airtel PB.
+18. [Ch 18: Credit Cards, Debit Cards, Smart Cards](Ace_Banking_Hinglish_Notes/18_Credit_Cards_Debit_Cards_Smart_Cards.md) — Pay Now vs Pay Later vs Pay Before, EMV, Contactless NFC ₹5,000, CVV.
+19. [Ch 19: ATMs in India](Ace_Banking_Hinglish_Notes/19_ATMs_in_India.md) — HSBC 1987, White Label (Tata Indicash 2013, min ₹100 Cr), Brown Label, T+5 days ₹100.
+20. [Ch 20: Priority Sector Lending (PSL)](Ace_Banking_Hinglish_Notes/20_Priority_Sector_Lending_PSL.md) — 8 Categories, 40% SCB, 75% RRB/SFB, Agri 18% (10% SMF), PSLCs, RIDF.
+21. [Ch 21: DICGC Deposit Insurance](Ace_Banking_Hinglish_Notes/21_DICGC_Deposit_Insurance.md) — ₹5 Lakh per depositor per bank, Excluded deposits, 90-day moratorium payout.
+22. [Ch 22: Financial Inclusion & Schemes](Ace_Banking_Hinglish_Notes/22_Financial_Inclusion_and_Related_Schemes.md) — BSBDA, PMJDY (₹10k OD), PMJJBY (₹436), PMSBY (₹20), APY, SSY.
+23. [Ch 23: Banks Board Bureau & FSIB](Ace_Banking_Hinglish_Notes/23_Banks_Board_Bureau_BBB_and_FSIB.md) — P.J. Nayak, BBB (2016) to FSIB (2022).
+24. [Ch 24: Monetary Policy Committee (MPC)](Ace_Banking_Hinglish_Notes/24_Monetary_Policy_Committee_MPC.md) — Sec 45ZB, 6 members (3+3), Governor casting vote, Quorum 4.
+25. [Ch 25: Indian Banks' Association (IBA)](Ace_Banking_Hinglish_Notes/25_Indian_Banks_Association_IBA.md) — 1946, Mumbai, Bipartite wage negotiations.
+26. [Ch 26: NPCI and Its Digital Products](Ace_Banking_Hinglish_Notes/26_NPCI_and_Digital_Payment_Products.md) — PSS Act 2007, IMPS (₹5L), RuPay, AePS, NACH, CTS, UPI, FASTag.
+27. [Ch 27: Important Committees in Banking](Ace_Banking_Hinglish_Notes/27_Important_Committees_in_Banking.md) — Master directory of 30+ committees from 1926 to 2020.
+28. [Ch 28: International Financial Institutions](Ace_Banking_Hinglish_Notes/28_International_Financial_Institutions_World_Bank_IMF_ADB_AIIB_NDB.md) — World Bank (IBRD, IDA, IFC, MIGA, ICSID), IMF (SDR 5 currencies), ADB, NDB, AIIB.
+29. [Ch 29: Headquarters and Taglines of PSBs](Ace_Banking_Hinglish_Notes/29_Headquarters_and_Taglines_of_PSBs.md) — 12 PSBs with complete cities and mnemonics.
+30. [Ch 30: NPAs & SARFAESI Act](Ace_Banking_Hinglish_Notes/30_NPAs_and_SARFAESI_Act.md) — 90 days overdue, SMA 0/1/2, SARFAESI Sec 13(2) 60-day notice, DRT, ARCs.
+31. [Ch 31: Shares and Debentures](Ace_Banking_Hinglish_Notes/31_Shares_and_Debentures.md) — Equity vs Preference, Debentures, Bonus shares, Rights issue.
+32. [Ch 32: Miscellaneous Banking Terms Glossary](Ace_Banking_Hinglish_Notes/32_Miscellaneous_Banking_Terms_Glossary.md) — CASA, CAMELS, Bancassurance, CBS, SWIFT, IFSC, MICR.
+33. [Ch 33: Mutual Funds](Ace_Banking_Hinglish_Notes/33_Mutual_Funds.md) — UTI 1963, SEBI 1996, NAV formula, Open vs Close ended, ELSS, SIP.
+34. [Ch 34: Government Financial Schemes](Ace_Banking_Hinglish_Notes/34_Government_Financial_Schemes.md) — PM-KISAN, PMFBY (Kharif 2%, Rabi 1.5%), KCC (4% net interest).
+35. [Ch 35: Banking and NBFC Ombudsman](Ace_Banking_Hinglish_Notes/35_Banking_and_NBFC_Ombudsman.md) — RB-IOS 2021, CRPC Chandigarh, 14448, ₹30L financial award, ₹3L harassment.
+36. [Ch 36: Cheques and Its Types](Ace_Banking_Hinglish_Notes/36_Cheques_and_Its_Types.md) — Sec 6 NI Act, 3 months validity, Bearer, Order, Crossed, Account Payee, Stale, CTS-2010.
+37. [Ch 37: Financial Abbreviations Master Dictionary](Ace_Banking_Hinglish_Notes/37_Financial_Abbreviations_Master_Dictionary.md) — A to Z complete glossary of 120+ financial abbreviations.
+38. [Ch 38: Currency System in India](Ace_Banking_Hinglish_Notes/38_Currency_System_in_India.md) — 4 Presses (Nashik, Dewas, Mysuru, Salboni), 4 Mints with mint marks, Note Refund Rules.
+39. [Ch 39: Risks in Banking Sector](Ace_Banking_Hinglish_Notes/39_Risks_in_Banking_Sector.md) — Credit, Market, Operational, Liquidity, Systemic, Reputational Risk, ALCO.
+40. [Ch 40: Recent Exam Questions & Practice Set](Ace_Banking_Hinglish_Notes/40_Recent_Exam_Questions_and_Practice_Set.md) — Actual exam questions with detailed Hinglish solutions.
 
 ---
 
